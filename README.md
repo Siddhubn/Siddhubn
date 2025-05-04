@@ -1,7 +1,7 @@
 <!-- Profile README for Siddhubn -->
 
 <h1 align="center">Hey there, I'm Siddharth! 👨‍💻</h1>
-<h3 align="center">CSDS Undergrad | Cybersecurity Enthusiast | Developer </h3>
+<h3 align="center"> Developer | CSDS Undergrad | Cybersecurity Enthusiast </h3>
 
 <p align="center">
  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="280"></img>
